@@ -19,6 +19,8 @@ struct pred
 	}
 };
 //Даниил лох
+//dfdf
+
 class Sport_gds {
 private:
 	
