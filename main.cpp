@@ -18,7 +18,7 @@ struct pred
 		return a < b;
 	}
 };
-
+//Даниил лох
 class Sport_gds {
 private:
 	
