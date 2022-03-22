@@ -20,11 +20,15 @@ struct pred
 };
 //Даниил лох
 //dfdf
+<<<<<<< HEAD
 //aafsfsfsfsggdf
 //sfsfdsfsfdgf
 //dsf
 //lohhh
 //addsdsdsfdghgjgmkhjkhk
+=======
+//lohhhhhh
+>>>>>>> branch2
 class Sport_gds {
 private:
 	
