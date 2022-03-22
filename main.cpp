@@ -20,7 +20,7 @@ struct pred
 };
 //Даниил лох
 //dfdf
-
+//lohhhhhh
 class Sport_gds {
 private:
 	
